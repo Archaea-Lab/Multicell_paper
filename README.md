@@ -1,5 +1,4 @@
-# Particle_Tracking
+# Multicell_paper
 
-## Use this code to calculate MSDs and Ds from Tracked particles (XY positions).
+## Use the jupyter notebook to calculate MSDs and Ds from Tracked particles in TrackMate (XY positions).
 
-The first version was used for analysis of SpoIIIJ particles in the _H. volcanii_ membrane (Rados Multicell paper)
